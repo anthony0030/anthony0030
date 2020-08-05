@@ -39,7 +39,5 @@
 ---
 
 [![anthony0030's github stats](https://github-readme-stats.vercel.app/api?username=anthony0030&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony0030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anthony Veaudry StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13163560)](https://stackoverflow.com/users/13163560/anthony0030)
