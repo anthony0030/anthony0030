@@ -1,4 +1,4 @@
-### Hi there 👋 Im Anthony - aka [anthony00030](https://github.com/anthony0030)
+### Hi there 👋  Im Anthony - aka [anthony00030](https://github.com/anthony0030)
 
 - 🔭 I’m currently working on building a new GoThassos
 - 🌱 I’m currently learning how to code better
