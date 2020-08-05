@@ -38,8 +38,7 @@
 
 ---
 
-
-<img align="left" alt="anthony0030's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthony0030&show_icons=true&count_private=true&hide=stars" />
+[![anthony0030's github stats](https://github-readme-stats.vercel.app/api?username=anthony0030&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony0030&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
